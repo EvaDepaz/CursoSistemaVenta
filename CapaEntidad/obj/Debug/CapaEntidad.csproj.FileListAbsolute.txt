@@ -1,0 +1,6 @@
+C:\Users\USUARIO\Desktop\PROGRAMER_STUDY\exercises-2023\.NET\Proy1_.NET_SQL\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\PROGRAMER_STUDY\exercises-2023\.NET\Proy1_.NET_SQL\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\PROGRAMER_STUDY\exercises-2023\.NET\Proy1_.NET_SQL\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\PROGRAMER_STUDY\exercises-2023\.NET\Proy1_.NET_SQL\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\PROGRAMER_STUDY\exercises-2023\.NET\Proy1_.NET_SQL\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\PROGRAMER_STUDY\exercises-2023\.NET\Proy1_.NET_SQL\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.pdb

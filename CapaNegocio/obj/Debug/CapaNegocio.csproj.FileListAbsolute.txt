@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Desktop\PROGRAMER_STUDY\exercises-2023\.NET\Proy1_.NET_SQL\CursoSistemaVenta\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\USUARIO\Desktop\PROGRAMER_STUDY\exercises-2023\.NET\Proy1_.NET_SQL\CursoSistemaVenta\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\USUARIO\Desktop\PROGRAMER_STUDY\exercises-2023\.NET\Proy1_.NET_SQL\CursoSistemaVenta\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\USUARIO\Desktop\PROGRAMER_STUDY\exercises-2023\.NET\Proy1_.NET_SQL\CursoSistemaVenta\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\PROGRAMER_STUDY\exercises-2023\.NET\Proy1_.NET_SQL\CursoSistemaVenta\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\USUARIO\Desktop\PROGRAMER_STUDY\exercises-2023\.NET\Proy1_.NET_SQL\CursoSistemaVenta\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\PROGRAMER_STUDY\exercises-2023\.NET\Proy1_.NET_SQL\CursoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\PROGRAMER_STUDY\exercises-2023\.NET\Proy1_.NET_SQL\CursoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\PROGRAMER_STUDY\exercises-2023\.NET\Proy1_.NET_SQL\CursoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\PROGRAMER_STUDY\exercises-2023\.NET\Proy1_.NET_SQL\CursoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\USUARIO\Desktop\PROGRAMER_STUDY\exercises-2023\.NET\Proy1_.NET_SQL\CursoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.pdb
